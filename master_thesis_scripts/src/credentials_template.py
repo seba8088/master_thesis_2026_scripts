@@ -1,0 +1,5 @@
+USERNAME = "InsertRedditUsernameHere"
+PASSWORD = "InsertRedditPasswordHere"
+CLIENT_ID = "InsertRedditClientIDHere"
+CLIENT_SECRET = "InsertRedditClientSecretHere"
+USER_AGENT = "InsertUserAgentHere"

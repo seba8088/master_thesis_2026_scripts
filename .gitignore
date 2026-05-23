@@ -1,0 +1,24 @@
+src/Aspect Term Extraction and Polarity Classification.FAST_LCF_ATEPC.result.json
+src/__pycache__/dependencies.cpython-313.pyc
+src/__pycache__/keywords.cpython-313.pyc
+src/checkpoints/APC_ENGLISH_CHECKPOINT/fast_lsa_t_v2_English_acc_82.21_f1_81.81/fast_lsa_t_v2.args.txt
+src/checkpoints/APC_ENGLISH_CHECKPOINT/fast_lsa_t_v2_English_acc_82.21_f1_81.81/fast_lsa_t_v2.config
+src/checkpoints/APC_ENGLISH_CHECKPOINT/fast_lsa_t_v2_English_acc_82.21_f1_81.81/fast_lsa_t_v2.state_dict
+src/checkpoints/APC_ENGLISH_CHECKPOINT/fast_lsa_t_v2_English_acc_82.21_f1_81.81/fast_lsa_t_v2.tokenizer
+src/checkpoints/ATEPC_ENGLISH_CHECKPOINT/fast_lcf_atepc_English_cdw_apcacc_82.36_apcf1_81.89_atef1_75.43/fast_lcf_atepc.args.txt
+src/checkpoints/ATEPC_ENGLISH_CHECKPOINT/fast_lcf_atepc_English_cdw_apcacc_82.36_apcf1_81.89_atef1_75.43/fast_lcf_atepc.config
+src/checkpoints/ATEPC_ENGLISH_CHECKPOINT/fast_lcf_atepc_English_cdw_apcacc_82.36_apcf1_81.89_atef1_75.43/fast_lcf_atepc.state_dict
+src/checkpoints/ATEPC_ENGLISH_CHECKPOINT/fast_lcf_atepc_English_cdw_apcacc_82.36_apcf1_81.89_atef1_75.43/fast_lcf_atepc.tokenizer
+src/checkpoints.json
+.vscode/settings.json
+src/absa_checkpoint.csv
+src/logs/fast_lsa_t_v2_20260226 193406/trainer.log
+data/absa_checkpoint.csv
+src/credentials.py
+src/__pycache__/credentials.cpython-313.pyc
+src/general_lego_pyabsa_metrics.xlsx
+src/general_stats.xlsx
+src/legostarwars_pyabsa_metrics.xlsx
+src/total_stats.xlsx
+src/starwars_stats.xlsx
+src/all_subreddits_pyabsa_metrics.xlsx
